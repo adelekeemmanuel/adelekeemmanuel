@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Adeleke Emmanuel
+# Hey there! I'm Adeleke Emmanuel
 
 I'm a Backend Developer who builds reliable server-side applications, RESTful APIs, and microservices using Java, Spring Boot, and container tools like Docker and Podman. I'm also interested in how AI can improve backend systems. I focus on writing clean, scalable code that works well in any environment.
 
